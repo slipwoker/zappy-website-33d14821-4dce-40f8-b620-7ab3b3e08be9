@@ -1,0 +1,85 @@
+# celluxe — Generative Engine Optimization Map
+
+> A אביזרים לסלולר ואלקטרוניקה business.
+
+---
+
+## Pages
+
+### Home
+https://celluxe-33d14821.zappy5.app
+
+### Catalog
+https://celluxe-33d14821.zappy5.app/catalog
+
+### Product Detail
+https://celluxe-33d14821.zappy5.app/product
+
+### Contact
+https://celluxe-33d14821.zappy5.app/contact
+
+### Products
+https://celluxe-33d14821.zappy5.app/products
+המוצרים שלנו - celluxe
+
+### Cart
+https://celluxe-33d14821.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://celluxe-33d14821.zappy5.app/checkout
+תשלום
+
+### Login
+https://celluxe-33d14821.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://celluxe-33d14821.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://celluxe-33d14821.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://celluxe-33d14821.zappy5.app/product/:slug
+פרטי המוצר - celluxe
+
+### Category
+https://celluxe-33d14821.zappy5.app/category/:slug
+מוצרים - celluxe
+
+## Legal & Policy
+
+### Privacy Policy
+https://celluxe-33d14821.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://celluxe-33d14821.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://celluxe-33d14821.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About celluxe
+celluxe is a business in the אביזרים לסלולר ואלקטרוניקה industry.
+
+## Target Audience
+עסקים (B2B)
+
+## Industry
+אביזרים לסלולר ואלקטרוניקה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://celluxe-33d14821.zappy5.app/sitemap.xml
+- **Robots.txt**: https://celluxe-33d14821.zappy5.app/robots.txt
